@@ -1,0 +1,180 @@
+
+BOAS VINDAS
+
+OBJETIVO: receber um visitante da pagina 
+
+SAUDACAO: Seja bem vindo ao meu portifolio de projetos eh aqui que eu compilo todos todos 
+meu conhecimento de ferramentas e metodos pra resolver problemas de negocios usando 
+a ciencia de dados e vc vai encontrar nessa pagina minhas habilidade minhas experiencias, rpojetos e resultados. 
+ 
+
+
+SOBRE MIM
+
+objetivo: QUEM EH VC nesse momento profissional 
+ 
+          O QUE ANDA FAZENDO OU ESTUDANDO SOBRE CIENCIA DE DADOS 
+
+elementos: 
+
+- o que vc faz atualmente de maneira profissional 
+
+- quais as opoertunidades, profissoes e papeis que vc esta buscando 
+
+
+
+HABILIDADES 
+
+objetivo: mostrar as habilidade adquiridas em ciencia de dados 
+
+quais as ferramentas e metodos de cincia de dados que vc tem experiencia 
+
+(experincias e habilidades relacionados a linguagem de informacao)
+
+- linguagem da programacao (coleta, manipular e extrair extrair conheciento dos dados)
+- estatisticas de machine learning (metodos e algoririmos) 
+-  visualizacao de dados (pacote e ferramentas de visualizacao de dados)
+Como conseguimos transmitir a nossa mensagem via ferramentas e elementos graficos
+_ ferramentas de engenharia de software
+
+Elementos: nome das ferramentas e tecnicas
+
+
+EXPERIENCIAS
+
+OBJETIVO: mostrar as experincias em ciancia de dados 
+
+- experincia de ciencia de dados 
+- experincia do seu trabalho atual (gerenciamento de tempo, priorizacao de tarerfas, 
+negociacao de atividades, ajuda com as pessoas, olhar sempre para a objetivo do time 
+conciencia de qual o objetivo da empresa e como vc esta contribuindo com isso, 
+difundir conhecimento para o time,ensinar uma tecnica,compartilhar o que vc aprendeu, 
+como profissional como vc lida com as tarefas, como vc interege, como vc sugere, como vc ajuda) 
+
+
+PROJETOS DE PORTIFOLIO
+
+OBJETIVO: mostrar os projetos de portifolio de ciencia de dados 
+
+demonstrar nossa capacidade de resolver problemas de negocios usando dados, ferramentas 
+ e conhecimento de cincia de dados 
+
+elementos: 
+titulo do projeto
+descricao do projeto 
+ferramentas utilizadas 
+
+CONTATO
+
+OBJETIVO:fornecer uma forma de entrar em contato 
+linkedin
+email
+medium 
+
+
+
+
+Aula 04 - Escrevendo meu Portfólio
+
+Boas Vindas
+
+Olá, seja muito bem-vindo (a) ao meu portfólio de projetos de Ciência de Dados.
+Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio
+utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados
+públicos.
+Você vai encontrar também, minhas experiências profissionais, habilidades,
+ferramentas e conceitos envolvendo a Ciência de Dados.
+Sinta-se à vontade para entrar em contato através dos links no final da página.
+
+
+
+Sobre mim
+Meu nome é Deisi Lima, estudante de Ciencia de Dados. 
+Atualmente, trabalho como Gerente de vendas na empresa Alcione Santos Calcados, em um projeto inovador de atendimento ao publico, com foco no automatizacao e conversao em vendas. 
+Esse projeto passa constantemente por inovacoes para melhorar o desempenho e conversao, com base em dados e analise dos resultados. 
+
+Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de
+Dados para melhorar a tomada de decisão da empresa, através da construção de
+soluções usando dados.
+
+
+
+Habilidades
+Linguagens de Programação e Banco de Dados
+Python com foco em análise de dados.
+Web scraping com Python
+SQL para extração de dados
+R para modelagem estatística
+Banco de Dados SQLite, Postres, MySQL, Oracle, MongoDB e Cassandra.
+
+Estatística e Machine Learning
+Estatística descritiva ( localização, dispersão, assimetria, kurtosis, densidade )
+Algoritmos de Regressão, classificação, clusterização e "learn to rank"
+Técnicas de balanceamento dos dados, seleção de atributos e redução de
+dimensionalidade
+
+Métricas de performance dos algoritmos ( RMSE, MAE, MAPE, Confusion Matrix,
+Precisão, Recall, Curva ROC, Curva Lift, AUC, Silhouette Score, DB-Index )
+Pacotes de Machine Learning: Sklearn e Scipy.
+Visualização de Dados
+Matplotlib, Seaborn, Plotly e Bokeh.
+Power BI, Tableau, Metabase e Looker.
+
+
+Engenharia de Software
+Git, Github, Gitlab, Cookiecutter, Virtual Environment e Docker
+Streamlit, Flask, Python API's.
+Cloud Heroku, AWS Amazon, Google Cloud Platform ( GCP ) e Azure
+
+
+Experiências
+4+ Projetos completos de Ciência de Dados
+Construção de soluções de dados para problemas de negócio, próximos dos desafios
+reais das empresas, utilizando dados públicos de competições de Ciência de Dados,
+onde eu abordei o problema desde a concepção do desafio de negócio até a
+publicação do algoritmo treinado em produção, utilizando ferramentas de Cloud
+Computing.
+3+ anos como Analista de Risco
+Estudo e seleção de ativos de baixo risco para clientes com perfil de investidor
+conservador. Rotinas de atualização de relatórios e métricas para os "steakholder".
+2+ anos como monitor de Econometria
+Correção de provas, exercícios e monitorias ao vivo para tirar dúvidas dos alunos.
+
+
+Projetos em Ciência de Dados
+Construção de um programa de fidelidade com clusterização de
+clientes.
+Eu usei Python, Estatística e técnicas não-supervisionadas de Machine Learning para
+segmentar um grupo de clientes com base em suas características de performance de
+compra, a fim de selecionar grupos de clientes para formar um programa de Fidelidade
+com o objetivo de aumentar a receita da empresa. E o resultado dessa solução, caso
+fosse implementada, seria de R$ 15MM de dólares de receita anual.
+As ferramentas utilizadas foram:
+Git, Gitlab e Github
+Python, Pandas, Matplotlib e Seaborn
+Jupyter Notebook
+K-Means, Hierarquical Clustering, DBScan
+AWS Cloud ( EC2, S3, Postgres, SQLite )
+Metabase Visualization
+
+
+Identificação de imóveis para compra e revenda a fim de
+maximizar o lucro
+Identificação de imóveis abaixo do preço médio de venda e definição do preço ideal de
+revenda, a partir de uma análise exploratória de dados em Python
+As ferramentas utilizadas foram:
+Python, Pandas, Numpy e Seaborn
+Anaconda, Pycharm e Jupyter Notebook
+Mapas interativos com Plotly e Folium
+Heroku Cloud
+Streamlit Python framework web
+
+
+Contato
+Sinta-se à vontade para entrar em contato:
+LinkedIn
+Email ( meigarom@comunidadedatascience.com )
+Medium
+Qualquer sugestão ou dúvida, por favor, entre em contato.
+
+    
